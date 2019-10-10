@@ -39,4 +39,4 @@ for i in range (10):
     time.sleep(.5)
     sense.set_pixels(Heart1)
 
-#sense.show_message ("Love")
+ sense.show_message ("Love")
