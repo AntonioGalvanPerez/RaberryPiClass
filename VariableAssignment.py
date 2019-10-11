@@ -15,9 +15,6 @@ B = (0,0,255)     #Blue
 Y = (255,55,0)    #Yellow
 P = (255,51,153)  #Pink
 
-
-
-#Example with no Variables
 Shape1 = [
     O, O, O, O, O, O, O, O,
     O, O, O, O, O, O, O, O,
