@@ -20,20 +20,20 @@ Heart1 = [
 
 #Color Variables
 O = (255,128,0) #Orange
-I = (0,102,102) #Green
+B = (0,102,102) #Blue
 
 
 
 #Example with Variables
 Heart2 = [
     O, O, O, O, O, O, O, O,
-    O, I, I, O, O, I, I, O,
-    I, I, I, I, I, I, I, I,
-    I, I, I, I, I, I, I, I,
-    I, I, I, I, I, I, I, I,
-    O, I, I, I, I, I, I, O,
-    O, O, I, I, I, I, O, O,
-    O, O, O, I, I, O, O, O,
+    O, B, B, O, O, B, B, O,
+    B, B, B, B, B, B, B, B,
+    B, B, B, B, B, B, B, B,
+    B, B, B, B, B, B, B, B,
+    O, B, B, B, B, B, B, O,
+    O, O, B, B, B, B, O, O,
+    O, O, O, B, B, O, O, O,
     ]
 
 #Flashes Heart 
